@@ -6,7 +6,7 @@ Traditional voting systems face challenges related to security, transparency, an
 
 ### 1. Secure Digital Identity Verification
 
-Implement a robust digital identity verification process for voters to prevent unauthorized access. Utilize cryptographic techniques to ensure the integrity and authenticity of voter identities, enhancing the overall security of the voting system.
+Implement a robust digital identity verification process for voters to prevent unauthorized access. Utilize cryptographic techniques to ensure the integrity and authenticity of voter identities, enhancing the overall security of the voting system. 
 
 ### 2. Blockchain for Tamper-Proof Voting
 
